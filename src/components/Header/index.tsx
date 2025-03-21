@@ -1,4 +1,4 @@
-import { Cart, ChevronDown, LogoInstagram, Person, LogoWhatsapp, LogoFacebook } from "react-ionicons";
+import { ChevronDown, LogoInstagram, LogoWhatsapp, LogoFacebook } from "react-ionicons";
 import bg from "../../assets/images/bg.jpg";
 
 const Header = () => {
